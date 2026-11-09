@@ -46,3 +46,8 @@ Para manter o e-mail (se houver algum no domínio), não apague registros MX.
 ## 4. Editar no futuro
 
 Abra o `.html` no GitHub, clique no lápis, altere o texto e faça *Commit*. O site atualiza sozinho em cerca de 1 minuto.
+
+## Histórico de versões
+
+- **1.1 (novembro de 2026):** página de vídeos para cuidadores (`videos.html`), textos sobre tratamento da doença de Alzheimer (`alzheimer.html`) e da doença de Parkinson (`parkinson.html`), chamadas na página inicial, menu com "Vídeos", RQE no cabeçalho e no rodapé, descrição para o Google sem o termo "especialista" e fotos otimizadas (de cerca de 28 MB para 0,7 MB).
+- **1.0 (novembro de 2026):** migração do Wix para o GitHub Pages.
