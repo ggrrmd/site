@@ -49,5 +49,6 @@ Abra o `.html` no GitHub, clique no lápis, altere o texto e faça *Commit*. O s
 
 ## Histórico de versões
 
+- **1.2 (novembro de 2026):** SEO (títulos e descrições por página, dados estruturados do médico com endereço, CEP e horário iguais aos do Perfil da Empresa no Google, páginas médicas com autor e data de revisão, lista de vídeos), fotos em WebP, redirecionamento do endereço antigo do Wix (/currículo), ícones do site a partir da logo e sitemap com datas.
 - **1.1 (novembro de 2026):** página de vídeos para cuidadores (`videos.html`), textos sobre tratamento da doença de Alzheimer (`alzheimer.html`) e da doença de Parkinson (`parkinson.html`), chamadas na página inicial, menu com "Vídeos", RQE no cabeçalho e no rodapé, descrição para o Google sem o termo "especialista" e fotos otimizadas (de cerca de 28 MB para 0,7 MB).
 - **1.0 (novembro de 2026):** migração do Wix para o GitHub Pages.
